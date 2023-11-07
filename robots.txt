@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://abdulalkurdi.com/al-folio/sitemap.xml
+Sitemap: https://abdulalkurdi.com/sitemap.xml
