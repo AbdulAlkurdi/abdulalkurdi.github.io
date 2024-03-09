@@ -2,31 +2,27 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Abdulrahman E. Alkurdi
     - name: Languages
-      value: English, German
+      value: Arabic, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Illinois at Urbana-Champaign
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Mechanical Engineering, Applied Machine Learning (ML)
+        - Dissertation: ML-based Anxiety detection using wearables in real-world 
+
+    - title: Master of Science
+      institution: University of Illinois at Urbana-Champaign
+      year: 2019
+      Projects:
+        - Distributed electric propulsion systems and their impact on airfoil aerodynamics
+        - Computer Vision based Unmanned Autonomous Ground Vehicle based Foreign Object Debris (FOB) of debris from airdrom.
+        - Pesticide-free weed control: Multi-agent planning and optimization for agricultural robot   
 
 - title: Experience
   type: time_table
