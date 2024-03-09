@@ -7,4 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-Courses taught: Fundamentals of Signal Processing, Design of Thermal Systems, Design for Manufacturability, Mechanical Design II.
+Courses taught:
+ME 360 - Signal Processing.
+ME 402 - Design of Thermal Systems Design of Thermal Systems.
+ME 270 - Design for Manufacturability.
+ME 371 - Mechanical Design II.
