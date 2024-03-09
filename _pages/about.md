@@ -16,7 +16,7 @@ profile:
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 With over 12 years of work experience, I am a passionate and driven researcher and engineer with a focus on applying machine learning and bioinformatics to solve real-world problems. My mission is to leverage my expertise in aerospace, mechanical, and biomedical engineering to create innovative and impactful solutions that can improve human health and well-being. I am currently a researcher and PhD candidate at the University of Illinois at Urbana-Champaign, where I co-lead a project on remote anxiety detection using multimodal wearable sensors.
