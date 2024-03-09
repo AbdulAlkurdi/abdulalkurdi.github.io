@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD Candidate @ University of Illinois Urbana-Champaign | Machine Learning for Real-World Applications
+subtitle: PhD Candidate @ University of Illinois Urbana-Champaign | Machine Learning for Real-World Applications
 
 profile:
   align: right
