@@ -20,9 +20,9 @@
       institution: University of Illinois at Urbana-Champaign
       year: 2019
       Projects:
-        - Distributed electric propulsion systems and their impact on airfoil aerodynamics
-        - Computer Vision based Unmanned Autonomous Ground Vehicle based Foreign Object Debris (FOB) of debris from airdrom.
+        - NextGen electric aircrafts: Distributed electric propulsion systems and their impact on airfoil aerodynamics
         - Pesticide-free weed control: Multi-agent planning and optimization for agricultural robot   
+        - NextGen Airport Safety: Vision-based Unmanned Autonomous Ground Vehicle Foreign Object Debris (FOB) detection and removal system for airdroms.
 
 - title: Experience
   type: time_table
