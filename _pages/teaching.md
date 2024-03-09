@@ -7,8 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-# Courses taught
-
 ### ME 402 - Design of Thermal Systems Design of Thermal Systems
 
 Though, it's been a while since I've worked with heat transfer or thermodynamics, I was assigned this course as a resident "python expert," to teach the unfamiliar students with python, and manage script submissions and testing.
