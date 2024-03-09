@@ -27,3 +27,6 @@ This is a pretty fun hands-on class, where students design and CNC molds, which 
 
 ### ME 371 - Mechanical Design II
 
+This is a course that's structured differently, from conventional courses. Students spend thier time during lectures working on solving problems to aid in their design a mini cage elevator, which is the final project. They can come with questions to the teaching staff, if they have, or work independantly within their groups. 
+
+Emphesis is on Material failure modes and machinery components, like gears, friction drives, bearings, springs, etc.. It's exciting to see one's knowledge coming together to develop a functioning machine, while developing as an engineer.    
