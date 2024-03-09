@@ -8,4 +8,3 @@ nav_order: 6
 ---
 
 Courses taught: Fundamentals of Signal Processing, Design of Thermal Systems, Design for Manufacturability, Mechanical Design II.
-
