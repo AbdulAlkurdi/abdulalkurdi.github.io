@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Albert Einstein",
-    "label": "Scientist",
+    "label": "Generalist Engineer",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "abdul.alkurdiatgmaildotcom",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://AbdulAlkurdi.com/",
+    "summary": "A ML expert, looking for the next challenge in life!",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,13 +24,43 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "name": "University of Illinois at Urbana-Champaign",
+      "position": "Research and Teaching Assistant",
+      "url": "",
+      "startDate": "2016-08-01",
+      "endDate": "2024-05-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "highlights": ["Engineered a robust multi-modal machine learning framework tailored for real-world application, significantly enhancing system deployment readiness.",
+                     "Implemented denoising algorithms and synthetic data generation to boost detection accuracy and model reliability in diverse environments.",
+                      "Developed a novel sensor fusion algorithm to optimize data quality for machine learning processing, markedly improving detection performance.",
+                      "Optimized data pipelines and engineered features robust to environmental disturbances, yielding improved model performance.",
+                      "Advanced sensor fusion methodologies to optimize data quality for machine learning processing, markedly improving detection performance.",
+                      "Managed recruitment, coordination, and execution of real-world experiments, ensuring well-labeled and accurate datasets."]
+    },
+    {
+      "name": "Joint Center of Excellence at KACST and Stanford University",
+      "position": "Research Associate",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "2016-08-01",
+      "summary": "Experimental research on flight dynamics to aid in stall and spin detection and recovery.",
+      "highlights": ["Spearheaded the design and optimization of bespoke subscale aircraft test beds, significantly advancing stall-spin (SS) research through the integration of advanced signal processing, sensor fusion, and machine learning flight classification algorithms.",
+                     "Enhanced stall and spin prediction models with innovative sensor fusion, denoising, and machine learning classification algorithms.",
+                     "Optimized Data Acquisition (DAQ) systems, boosting accuracy through improved data management to increase operational flight testing efficiency.",
+                     "Engineered a novel fail-safe SS detection controller using predictive analytics, setting new standards in SS prediction and recovery systems, contributing to advancing aerospace safety protocols.",
+                     "Invented novel methodologies to evaluate airflow conditions and characteristics through hardware and software design."]
+    },
+    {
+      "name": "SABIC",
+      "position": "Machinery Diagnostics Engineer",
+      "url": "",
+      "startDate": "2011-03-01",
+      "endDate": "2015-01-01",
+      "summary": "",
+      "highlights": ["Pioneered the use of data mining to provide insights, significantly improving productivity and reliability metrics.",
+                     "Provided critical engineering support globally, enhancing productivity across 90 affiliates.",
+                     "Led the revamp of engineering SOPs, streamlining procedures across SABIC's global operations.",
+                     "Spearheaded lean manufacturing initiatives, improving production records by 15% and operational efficiency by 12%."]
     }
   ],
   "volunteer": [
