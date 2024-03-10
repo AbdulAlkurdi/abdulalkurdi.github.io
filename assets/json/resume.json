@@ -63,34 +63,23 @@
                      "Spearheaded lean manufacturing initiatives, improving production records by 15% and operational efficiency by 12%."]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Illinois at Urbana-Champaign",
+      "location": "Urbana-Champaign, Illinois, United States",
+      "url": "",
+      "area": "Mechanical Engineering, Applied Machine Learning",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2019-08-01",
+      "endDate": "2024-05-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Deep Learning", "Reinforcement Learning", "Generative AI", "Abstract Linear Algebra", "Artificial intelligence", "Probability and Statistics"]
     }
   ],
   "awards": [
     {
       "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
+      "date": "1921",
       "awarder": "Royal Swedish Academy of Sciences",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
