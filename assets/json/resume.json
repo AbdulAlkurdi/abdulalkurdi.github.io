@@ -106,59 +106,6 @@
       "score": "10"
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
   "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
@@ -180,26 +127,90 @@
       "releaseDate": "1916-03-20",
       "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+    },
+    {
+      "name": "Review of Machine Learning Methods for Anxiety Detection",
+      "publisher": "IEEE Transactions on Affective Computing",
+      "releaseDate": "submitted",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Assessing Impact of Environmental noise on Anxiety Detection",
+      "publisher": "IEEE Transactions on Affective Computing",
+      "releaseDate": "under submission",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Advancing Anxiety Detection: Efficacy of Machine Learning Models in Real-World",
+      "publisher": "under submission",
+      "releaseDate": "under submission",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Feasibility of VR in Eliciting Anxiety in Older Women.",
+      "publisher": "2021 IEEE EMBC",
+      "releaseDate": "2021-07-01",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "In-flight measurement of wing surface pressures on UAV during stall/spin maneuvers",
+      "publisher": "2016 AIAA flight testing",
+      "releaseDate": "2016-07-01",
+      "url": "",
+      "summary": ""
     }
   ],
-  "skills": [
+  "Technical skills": [
     {
-      "name": "Physics",
+      "name": "Machine Learning",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Semi/un/supervised Learning",
+        "Deep Learning (Transformers, CNNs, etc.)",
+        "Generative AI",
+        "Foundation Models",
+        "Transfer Learning",
+        "Fine-tuning",
+        "Few-shot learning",
+        "Distributed learning"
+      ]
+    },
+    {
+      "name": "Development",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "Tensorflow",
+        "Pytorch",
+        "Keras",
+        "Scikit-learn",
+        "Git",
+        "Cloud computing",
+        "Linux",
+        "MATLAB"
+      ]
+    },
+    {
+      "name": "Data Management",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Pandas",
+        "MySQL",
+        "Parquet",
+        "Dask"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Arabic",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -209,33 +220,7 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+  "project highlights": [
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
@@ -243,6 +228,24 @@
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
+    },
+    {
+      "name": "NanoGPT chatbot",
+      "summary": "Created a generative pretrained transformer gpt3-based chatbot. Based on Andrej Karpathy implementation. Trained on Shakespeare writings, it generates conversation based on user prompt.",
+      "highlights": ["Generative AI", "Natural Language Processing"],
+      "url": ""
+    },
+    {
+      "name": "GANs Image generator and CNN explainer",
+      "summary": "Created a discriminator/generator GAN pair on the CIFAR10 datasets, for synthetic image generation to maximize class output scores or highlight specific features, utilizing it as an explainability method for CNNs.",
+      "highlights": ["Generative AI", "Explainability"],
+      "url": ""
+    },
+    {
+      "name": "RL-based glider pilot",
+      "summary": "Created a OpenAI gym environment that is a simulation of flight mechanics. Implemented a SARSA RL to learn to navigate turbulent environment to maximize flight path. Implementation based on Reddy et al.’s “Glider Soaring via RL in the field.”",
+      "highlights": ["Reinforcement Learning", "OpenAI Gym"],
+      "url": ""
     }
   ]
 }
