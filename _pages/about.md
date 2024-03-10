@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 LuMEB 2204 </p>
+    <p>LuMEB 2204 </p>
     <p>1206 West Green Street </p>
     <p>Urbana, IL, 61801</p>
 
