@@ -4,7 +4,7 @@
     "label": "Generalist Engineer",
     "image": "",
     "email": "abdul.alkurdiatgmaildotcom",
-    "phone": "(912) 123-4567",
+    "phone": "(217) 979-7913",
     "url": "https://AbdulAlkurdi.com/",
     "summary": "A ML expert, looking for the next challenge in life!",
     "location": {
@@ -30,12 +30,12 @@
       "startDate": "2016-08-01",
       "endDate": "2024-05-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Engineered a robust multi-modal machine learning framework tailored for real-world application, significantly enhancing system deployment readiness.",
-                     "Implemented denoising algorithms and synthetic data generation to boost detection accuracy and model reliability in diverse environments.",
-                      "Developed a novel sensor fusion algorithm to optimize data quality for machine learning processing, markedly improving detection performance.",
-                      "Optimized data pipelines and engineered features robust to environmental disturbances, yielding improved model performance.",
-                      "Advanced sensor fusion methodologies to optimize data quality for machine learning processing, markedly improving detection performance.",
-                      "Managed recruitment, coordination, and execution of real-world experiments, ensuring well-labeled and accurate datasets."]
+      "highlights": ["Engineered a robust multi-modal ML framework for real-world application, significantly enhancing system deployment readiness.",
+                     "Implemented denoising algorithms & generated data to boost detection accuracy and model reliability in diverse environments.",
+                     "Advanced sensor fusion methodologies to optimize data quality for ML processing, markedly improving detection performance.",
+                      "Created data pipelines and engineered features robust to environmental disturbances, yielding improved model performance.",
+                      "Managed participant recruitment, coordination, & collection of clinical experiments, ensuring well-labeled & accurate datasets.",
+                      "Led a team of 30 graduate and undergraduate students, mentoring, coordinating, and evaluating."]
     },
     {
       "name": "Joint Center of Excellence at KACST and Stanford University",
@@ -46,9 +46,9 @@
       "summary": "Experimental research on flight dynamics to aid in stall and spin detection and recovery.",
       "highlights": ["Spearheaded the design and optimization of bespoke subscale aircraft test beds, significantly advancing stall-spin (SS) research through the integration of advanced signal processing, sensor fusion, and machine learning flight classification algorithms.",
                      "Enhanced stall and spin prediction models with innovative sensor fusion, denoising, and machine learning classification algorithms.",
-                     "Optimized Data Acquisition (DAQ) systems, boosting accuracy through improved data management to increase operational flight testing efficiency.",
+                     "Optimized Data Acquisition system, & data management to increase operational flight-testing efficiency.",
                      "Engineered a novel fail-safe SS detection controller using predictive analytics, setting new standards in SS prediction and recovery systems, contributing to advancing aerospace safety protocols.",
-                     "Invented novel methodologies to evaluate airflow conditions and characteristics through hardware and software design."]
+                     "Created novel methodologies to evaluate airflow conditions and characteristics through hardware and software design."]
     },
     {
       "name": "SABIC",
@@ -66,7 +66,7 @@
   "education": [
     {
       "institution": "University of Illinois at Urbana-Champaign",
-      "location": "Urbana-Champaign, Illinois, United States",
+      "location": "Urbana, IL",
       "url": "",
       "area": "Mechanical Engineering, Applied Machine Learning",
       "studyType": "PhD",
