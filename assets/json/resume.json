@@ -74,6 +74,36 @@
       "endDate": "2024-05-01",
       "score": "10",
       "courses": ["Deep Learning", "Reinforcement Learning", "Generative AI", "Abstract Linear Algebra", "Artificial intelligence", "Probability and Statistics"]
+    },
+    {
+      "institution": "University of Illinois at Urbana-Champaign",
+      "location": "Urbana, IL",
+      "url": "",
+      "area": "Aerospace Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2016-08-01",
+      "endDate": "2019-05-01",
+      "score": "10"
+    },
+    {
+      "institution": "Lehigh University",
+      "location": "Bethlehem, PA",
+      "url": "",
+      "area": "Mechanical Engineering, Manufacturing",
+      "studyType": "Master of Engineering",
+      "startDate": "2011-01-01",
+      "endDate": "2010-01-01",
+      "score": "10"
+    },
+    {
+      "institution": "Lehigh University",
+      "location": "Bethlehem, PA",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2007-08-01",
+      "endDate": "2010-1-01",
+      "score": "10"
     }
   ],
   "awards": [
