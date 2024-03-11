@@ -9,11 +9,11 @@ nav_order: 6
 
 ---
 
-##### ME 402 - Design of Thermal Systems Design of Thermal Systems
+#### ME 402 - Design of Thermal Systems Design of Thermal Systems
 
 Though, it's been a while since I've worked with heat transfer or thermodynamics, I was assigned this course as a resident "python expert," to teach the unfamiliar students with python, and manage script submissions and testing.
 
-### ME 360 - Signal Processing
+#### ME 360 - Signal Processing
 
 ---
 
@@ -23,7 +23,7 @@ I helped change the curriculum when campus was closed during COVID-19, to be sui
 
 ---
 
-### ME 270 - Design for Manufacturability (DFM)
+#### ME 270 - Design for Manufacturability (DFM)
 
 ---
 
@@ -33,7 +33,7 @@ This is a pretty fun hands-on class, where students design and CNC molds, which 
 
 ---
 
-### ME 371 - Mechanical Design II
+#### ME 371 - Mechanical Design II
 
 ---
 
