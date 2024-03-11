@@ -224,8 +224,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - blog
-  - publications
   - repository
 
 keep_files:
