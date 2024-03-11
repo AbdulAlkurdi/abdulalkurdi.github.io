@@ -224,7 +224,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - repository
 
 keep_files:
   - CNAME
