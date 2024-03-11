@@ -172,7 +172,7 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
 
 announcements:
@@ -225,6 +225,9 @@ exclude:
   - readme_preview/
   - vendor
   - blog
+  - publications
+  - repository
+
 keep_files:
   - CNAME
   - .nojekyll
