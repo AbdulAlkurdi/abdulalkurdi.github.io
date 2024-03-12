@@ -2,7 +2,7 @@
 ---
 layout: post
 title: Straight lines don't exist in real life!
-date: 2023-07-04 08:57:00-0400
+date: 2000-07-04 08:57:00-0400
 description: a post about expanding your area of impact
 tags: life
 categories: life
