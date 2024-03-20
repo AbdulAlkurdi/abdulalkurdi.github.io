@@ -42,7 +42,8 @@ def calculate_expected_winnings(x):
               
         if n_A <= x:
             # Compare the expected utility of choosing n_A - 1 vs n_A + 1 for B
-            # This simplification assumes equal probability for all rolls and does not account for the exact expected utility calculation
+            # This simplification assumes equal probability for all rolls
+            # does not account for the exact expected utility calculation
             optimal_B_policy = n_A + 1
         elif n_A > x:
             optimal_B_policy = n_A - 1
