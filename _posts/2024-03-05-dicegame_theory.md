@@ -12,11 +12,8 @@ So this is a dice game with some interesting game theory involved. I was a littl
 
 Solutions posted online are the following:
 ````markdown
-```text
 
 the expected value for the roll is 15.5 so to maximize winning player A can immedietly get one of the closest positions to minimize distance. 16 is the better of the two 15 and 16
-
-```
 ````
 
 
