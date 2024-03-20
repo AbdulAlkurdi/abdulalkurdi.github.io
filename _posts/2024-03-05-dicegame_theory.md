@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with code
-date: 2015-07-15 15:09:00
-description: an example of a blog post with some code
+title: 2 player dice game
+date: 2024-03-05 15:09:00
+description: 2 player dice game
 tags: probability puzzle
 categories: puzzle probability
 featured: true
