@@ -12,7 +12,8 @@ the expected value for the roll is 15.5 so to maximize winning player A can imme
               
         <span class="k">if</span> <span class="n">n_A</span> <span class="o">&lt;=</span> <span class="n">x</span><span class="p">:</span>
             <span class="c1"># Compare the expected utility of choosing n_A - 1 vs n_A + 1 for B
-</span>            <span class="c1"># This simplification assumes equal probability for all rolls and does not account for the exact expected utility calculation
+</span>            <span class="c1"># This simplification assumes equal probability for all rolls
+</span>            <span class="c1"># does not account for the exact expected utility calculation
 </span>            <span class="n">optimal_B_policy</span> <span class="o">=</span> <span class="n">n_A</span> <span class="o">+</span> <span class="mi">1</span>
         <span class="k">elif</span> <span class="n">n_A</span> <span class="o">&gt;</span> <span class="n">x</span><span class="p">:</span>
             <span class="n">optimal_B_policy</span> <span class="o">=</span> <span class="n">n_A</span> <span class="o">-</span> <span class="mi">1</span>
