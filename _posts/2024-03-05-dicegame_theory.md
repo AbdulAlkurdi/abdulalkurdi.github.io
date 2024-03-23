@@ -9,13 +9,13 @@ featured: true
 ---
 
 So this is a dice game with some interesting game theory involved. I was a little surprised to find most solutions online seemed off to me so I solved it to find out. 
-
-    Say we have a 30-sided die, and this game involves 2 players, A and B. A will choose their number first, and then B will choose a different number. Now we’re going to roll the die. Whoever chooses a number which is closer to the number that the die rolls will win the amount of money that the die rolled. Would you like to be player A or player B?
-
+```markdown
+Say we have a 30-sided die, and this game involves 2 players, A and B. A will choose their number first, and then B will choose a different number. Now we’re going to roll the die. Whoever chooses a number which is closer to the number that the die rolls will win the amount of money that the die rolled. Would you like to be player A or player B?
+```
 Solutions posted online are the following:
-
-    the expected value for the roll is 15.5 so to maximize winning player A can immedietly get one of the closest positions to minimize distance. 16 is the better of the two 15 and 16
-
+```text
+the expected value for the roll is 15.5 so to maximize winning player A can immedietly get one of the closest positions to minimize distance. 16 is the better of the two 15 and 16
+```
 
 That can't be true! Can it? Let's find out!
 
